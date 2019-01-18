@@ -1,4 +1,4 @@
-package javaStudy;
+//package javaStudy;
 
 public class VariableExam {
 	

@@ -1,4 +1,4 @@
-package javaStudy;
+//package javaStudy;
 
 public class PrimitiveDataTypeExam {
 	
@@ -22,7 +22,7 @@ public class PrimitiveDataTypeExam {
 		float f = 3.1F;				//float 타입의 맨 뒤에는 f or F를 입력해야 함 
 		
 		double d = 12.34564;
-		 
+		System.out.println(d);
 	}
 
 }

@@ -1,4 +1,4 @@
-package javaStudy;
+//package src;
 
 public class ConstantExam {
 	
@@ -29,7 +29,7 @@ public class ConstantExam {
 		final int OIL_PRICE = 1450;
 		
 		int totalPrice = 50 * OIL_PRICE;
-		
+		System.out.println(totalPrice);
 		
 	}
 
